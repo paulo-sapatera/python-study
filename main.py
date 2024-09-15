@@ -7,7 +7,9 @@ print(nome.split()[1])
     2 faca um programa que peca ao usuario digitar 3 valores inteiros e imprima a soma deles
     3 faca um programa que receba 3 valores e apresente a soma dos quadrados dos valores lidos
 """ 
-#1
+
+
+    #1
 intnumber = 1
 print(intnumber)
 
@@ -33,5 +35,3 @@ soma = num1+num2+num3
 print("A soma dos quadrados eh:", soma)
 
 ################################################################
-
-
