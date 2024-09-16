@@ -10,7 +10,8 @@
 
 import math
 
-#1 
+#1
+ 
 num1: int = int(input("Digite o primeiro número:"))
 num2: int = int(input("Digite o primeiro número:"))
 
@@ -22,6 +23,7 @@ else:
 #################################################################################################################
 
 #2
+
 numero: int = int(input("Digite um numero inteiro:"))
 
 if numero > 0:
