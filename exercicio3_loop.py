@@ -6,4 +6,4 @@ na tela, ate que seu valor seja 100000 (cem mil)
 num = 0
 while num != 100000:
     num = num + 1000
-    print(num)   
+    print(num)
